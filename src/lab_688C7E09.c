@@ -3,47 +3,47 @@
 
 int unsiged_char_max()
 {
-    // TODO: write your code here
+   return UCHAR_MAX; // TODO: write your code here
 }
 
 int signed_char_min()
 {
-    // TODO: write your code here
+   return SCHAR_MIN; // TODO: write your code here
 }
 
 int signed_char_max()
 {
-    // TODO: write your code here
+    return SCHAR_MAX; // TODO: write your code here
 }
 
 int unsigned_int_max()
 {
-    // TODO: write your code here
+  return UINT_MAX; // TODO: write your code here
 }
 
 int signed_int_min()
 {
-    // TODO: write your code here
+  return INT_MIN; // TODO: write your code here
 }
 
 int signed_int_max()
 {
-    // TODO: write your code here
+   return INT_MAX; // TODO: write your code here
 }
 
 int unsigned_short_max()
 {
-    // TODO: write your code here
+   return USHRT_MAX; // TODO: write your code here
 }
 
 int signed_short_min()
 {
-    // TODO: write your code here
+   return SHRT_MIN; // TODO: write your code here
 }
 
 int signed_short_max()
 {
-    // TODO: write your code here
+   return SHRT_MAX; // TODO: write your code here
 }
 
 // DO NOT change the code below
